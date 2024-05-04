@@ -16,6 +16,9 @@ def handle_file(file):
     except IOError:
         # Handle the case where an I/O error occurs during file reading
         print(f"IOError: Could not read file '{file}'.")
+    else: 
+        # This block will only execute if no exceptions are raised
+        print("No errors occurred during file handling.")
         
     finally:
         # Print a completion message regardless of success or failure

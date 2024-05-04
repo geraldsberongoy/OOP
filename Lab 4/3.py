@@ -49,3 +49,5 @@ while True:
         print(f"FormulaError: {e}")
     except ZeroDivisionError as e:
         print(f"ZeroDivisionError: {e}")
+    finally:
+        print("Running again...")
