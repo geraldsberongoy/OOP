@@ -11,5 +11,6 @@ Each folder in the repository corresponds to a specific topic or assignment in O
 - **Lab3**: Calculator: Error Handling.
 - **Lab4**: Another Error Handling.
 - **Lab5**: Basic Intro for OOP
+- **Worksheet1**: String Manipulation.
 
 Thank you!
